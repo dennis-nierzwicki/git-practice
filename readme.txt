@@ -1,1 +1,1 @@
-Hello Git and Github.
+I'm making drastic changes to this readme testing out Git and Github.
